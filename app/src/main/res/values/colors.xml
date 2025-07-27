@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="card1">#F40000</color>
+    <color name="card2">#AB2A2A</color>
+    <color name="card3">#FF8C00</color>
+    <color name="card4">#6A5ACD</color>
+    <color name="card5">#20B2AA</color>
+    <color name="card6">#DC143C</color>
+    <color name="card7">#00CED1</color>
+    <color name="card8">#9370DB</color>
+    <color name="card9">#FF69B4</color>
+    <color name="card10">#7FFF00</color>
+    <color name="card11">#FF4500</color>
+    <color name="card12">#4682B4</color>
+    <color name="card13">#008B8B</color>
+    <color name="card14">#DA70D6</color>
+    <color name="card15">#D2691E</color>
+    <color name="card16">#32CD32</color>
+    <color name="card17">#1E90FF</color>
+    <color name="card18">#FF1493</color>
+    <color name="card19">#B22222</color>
+    <color name="card20">#FFD700</color>
+
+</resources>
